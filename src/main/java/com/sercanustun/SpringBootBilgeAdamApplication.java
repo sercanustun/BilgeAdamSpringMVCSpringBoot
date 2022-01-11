@@ -1,4 +1,4 @@
-package com.sercanustun.SpringBootBilgeAdam;
+package com.sercanustun;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class SpringBootBilgeAdamApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(SpringBootBilgeAdamApplication.class, args);
-	}
+    public static void main ( String[] args ) {
+        SpringApplication.run ( SpringBootBilgeAdamApplication.class, args );
+    }
 
 }
